@@ -53,6 +53,6 @@ I'm an full-stack building my version of the digital world one step at a time. A
   <a><img alt="tamir3031's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tamir303&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-<div class="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
