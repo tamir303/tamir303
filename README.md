@@ -1,9 +1,10 @@
 # 🏄‍♂️ Welcome to my HumbleHub
 
-**`Digital Craftsman`** 
 <div>
    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500">
 </div>
+
+**`Digital Craftsman`** 
 
 I'm an full-stack building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
