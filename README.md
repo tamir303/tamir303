@@ -34,8 +34,6 @@ I'm an full-stack building my version of the digital world one step at a time. A
 <br />
 
 #
-
-<details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -63,9 +61,6 @@ I'm an full-stack building my version of the digital world one step at a time. A
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#232](https://github.com/DenverCoder1/readme-typing-svg/issues/232) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 2. ❗️ Closed issue [#137](https://github.com/DenverCoder1/readme-typing-svg/issues/137) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
